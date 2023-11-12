@@ -2,7 +2,7 @@
 
 ## Description
 
-This homework is all about creating a database for a company that wants to have a resume for everyone within it. We have a people table to show all there general information like names, bios, date joined, url's, and contact info. To add onto this we have a skills table showcasing all the different skills that people have learned within the company. This table has things such as the skill name, description, time commited, and url. We combine these two tables together within peopleskills to show which employees have what skill(it could be more than one). We also have a roles table showcasing the different roles in the company some examples include boss, developer, and designer. We connect these roles to people within the peopleroles table to show which individuals have which role as it could be more than one. Overall this is a well organized database showcasing people, roles, and skills. These tables will help the company pick the right person for a particular project that is coming up. If they need a certain skill then they can just pull the people that have that skill. If they are looking for a team leader they can pull the team leaders out of the roles table.   
+This homework is all about creating a database for a company that wants to have a resume for everyone within it. We have a people table to show all their general information like names, bios, date joined, URLs, and contact info. To add to this we have a skills table showcasing all the different skills that people have learned within the company. This table has things such as the skill name, description, time commitment, and URL. We combine these two tables together within peopleskills to show which employees have what skill(it could be more than one). We also have a roles table showcasing the different roles in the company some examples include boss, developer, and designer. We connect these roles to people within the peopleroles table to show which individuals have which role as it could be more than one. Overall this is a well-organized database showcasing people, roles, and skills. These tables will help the company pick the right person for a particular project that is coming up. If they need a certain skill then they can just pull the people that have that skill. If they are looking for a team leader they can pull the team leaders out of the roles table.   
 
 ## How to install and run
 Before we render the hw7.qmd we need to install a few things such as:
@@ -17,11 +17,11 @@ When working with the ddl file make sure you are running all the blocks of code.
 
 ## How to use
 
-We use the ddl file to create our database adding tables with there information. After we create the table we can manipulate the information in the qmd file. After you are done mainpulating all the tables go back and render the hw7.qmd to put the new information on the html file. 
+We use the ddl file to create our database adding tables with the information. After we create the table we can manipulate the information in the qmd file. After you are done manipulating all the tables go back and render the hw7.qmd to put the new information on the html file. 
 
 ## Homework tasks
 
-1. Overview of project and description of database
+1. Overview of the project and description of the database
 2. Crows-foot diagram of the entities
 3. Listings of the three entity tables (people, roles, skills)
 4. A section titled “reports” with subsections that
